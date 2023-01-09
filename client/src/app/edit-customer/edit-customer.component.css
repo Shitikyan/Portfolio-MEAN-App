@@ -1,0 +1,16 @@
+.btn-info {
+    background: linear-gradient(89.9deg,#1049b3 0.08%,#2268eb 100.59%);
+    border: 1px solid white;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.btn-default {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.btn-info:hover {
+    background: white;
+    color:#1049b3;
+    border: 1px solid #1049b3;
+}

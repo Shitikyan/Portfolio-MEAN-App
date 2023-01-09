@@ -1,0 +1,15 @@
+.btn-default, .btn-success {
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.btn-success {
+    background: linear-gradient(89.9deg,#1049b3 0.08%,#2268eb 100.59%);
+    border: 1px solid white;
+}
+
+.btn-success:hover {
+    background: white;
+    border:1px solid #1049b3;
+    color: #1049b3;
+}
